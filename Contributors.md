@@ -659,6 +659,7 @@
 - [gyanchandkabra](https://github.com/gyanchandkabra)
 - [harshit](https://github.com/harshitpatel862)
 - [Giusnovetti](https://github.com/Giusnovetti)
+- [Kristoffer Paulsson](https://github.com/kristoffer-paulsson)
 - [benHitt](https://github.com/benHitt123)
 - [uzuraDev](https://github.com/uzuraDev)
 - [Eugene Chia](https://github.com/eugenechia)
@@ -3096,3 +3097,8 @@
 - [Atilla Ertas](https://github.com/atillaertas1)
 - [Rahul Shendre](https://github.com/rahulshendre) let's do it
 - [Gichia Muiruri](https://github.com/itsgichia) let's do it
+- [Dheeraj Gupta](https://github.com/Technical-D) first step 🚀
+- [Anmol Kumar](https://github.com/anmolkumarfromspn) test
+- [PhilDaiguille](https://github.com/PhilDaiguille)
+- [Leon Fray](https://github.com/Leon-Fray)
+- [Josue Ordonez](https://github.com/r4zu)
